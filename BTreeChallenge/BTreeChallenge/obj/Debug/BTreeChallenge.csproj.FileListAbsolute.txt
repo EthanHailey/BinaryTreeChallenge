@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\bin\Debug\BTreeChallenge.exe.config
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\bin\Debug\BTreeChallenge.exe
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\bin\Debug\BTreeChallenge.pdb
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.Properties.Resources.resources
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.csproj.GenerateResource.Cache
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.exe
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.pdb
+C:\Users\Ethan\Documents\Visual Studio 2015\Projects\BTreeChallenge\BTreeChallenge\obj\Debug\BTreeChallenge.Form1.resources
